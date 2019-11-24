@@ -3,7 +3,7 @@
 
 Example Usage:
 ![Input Image](./data/img/IMG0001.jpg)
-![Output Txt](./data/txt/IMG0002.jpg.out.txt.txt.jpg)
+![Output Txt](./data/txt/IMG0002.jpg.out.txt.txt)
 
 
 
