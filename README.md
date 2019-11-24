@@ -1,3 +1,12 @@
+# Receipt Scanner Proof of Concept
+### Credit: https://github.com/mre/receipt-parser
+
+Example Usage:
+![Input Image](./data/img/IMG0001.jpg)
+![Output Txt](./data/txt/IMG0002.jpg)
+
+
+
 # A fuzzy receipt parser written in Python  
 
 [![Build Status](https://travis-ci.org/mre/receipt-parser.svg?branch=master)](https://travis-ci.org/mre/receipt-parser)  
